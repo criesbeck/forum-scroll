@@ -1,0 +1,8 @@
+.post-body {
+  font-style: italic;
+  margin-left: 1em;
+}
+
+.post-title {
+  text-transform: capitalize;
+}
